@@ -17,7 +17,7 @@ def zap_scan(target_url):
             if progress == '100':
                 break
 
-        # Get the scan report
+       
         report_url = f'{zap_url}/HTML/ascan/view/scanProgress/?scanId={scan_id}'
         report = requests.get(report_url).text
         return report

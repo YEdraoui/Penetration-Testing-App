@@ -4,10 +4,11 @@ from port_scan import scan_ports
 from vuln_scan import zap_scan
 from exploit import sql_injection_test
 from report import generate_report
-
-
 from urllib.parse import urlparse
 
+
+
+#test
 def extract_domain(url):
     parsed_url = urlparse(url)
     domain = parsed_url.netloc or parsed_url.path  # Handles cases where netloc might be empty

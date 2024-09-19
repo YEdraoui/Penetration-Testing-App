@@ -12,7 +12,7 @@ def get_whois_info(domain):
 
 def get_dns_info(domain):
     try:
-        # Remove protocol (http/https) if present
+        
         if domain.startswith("http://") or domain.startswith("https://"):
             domain = domain.split("//")[1]
         result = socket.gethostbyname(domain)

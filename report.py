@@ -23,7 +23,7 @@ def generate_report(vulns, output_file):
             report_content += f"<li><strong>{key}</strong>:<br>{format_vulnerability(value)}</li>"
     report_content += "</ul></body></html>"
 
-    # Write the HTML report to a file
+
     with open("report.html", "w") as report_file:
         report_file.write(report_content)
 
