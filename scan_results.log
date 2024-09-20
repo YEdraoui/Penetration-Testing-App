@@ -1,0 +1,309 @@
+2024-09-20 10:29:55,088 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:29:55,088 - INFO - Running SQL Injection test on https://aui.ma/
+2024-09-20 10:29:55,122 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:29:55,122 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:29:55,122 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:29:55,122 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:29:55,122 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:29:55,174 - INFO - Open ports for 199.60.103.162: [80, 443]
+2024-09-20 10:29:55,175 - INFO - Port Scanning completed successfully.
+2024-09-20 10:29:55,213 - ERROR - SSL/TLS fetch failed for 199.60.103.162: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:29:55,215 - INFO - SSL Info completed successfully.
+2024-09-20 10:29:56,219 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:29:56,219 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:30:58,287 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:30:58,287 - INFO - Running SQL Injection test on https://aui.ma/
+2024-09-20 10:30:58,291 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:30:58,292 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:30:58,292 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:30:58,292 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:30:58,292 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:30:58,353 - INFO - Open ports for 199.60.103.162: [80, 443]
+2024-09-20 10:30:58,353 - INFO - Port Scanning completed successfully.
+2024-09-20 10:30:58,406 - ERROR - SSL/TLS fetch failed for 199.60.103.162: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:30:58,407 - INFO - SSL Info completed successfully.
+2024-09-20 10:30:59,572 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:30:59,572 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:31:24,708 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:31:24,708 - INFO - Running SQL Injection test on https://aui.ma/
+2024-09-20 10:31:24,713 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:31:24,713 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:31:24,713 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:31:24,713 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:31:24,713 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:31:24,792 - INFO - Open ports for 199.60.103.162: [80, 443]
+2024-09-20 10:31:24,792 - INFO - Port Scanning completed successfully.
+2024-09-20 10:31:24,816 - ERROR - SSL/TLS fetch failed for 199.60.103.162: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:31:24,817 - INFO - SSL Info completed successfully.
+2024-09-20 10:31:26,095 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:31:26,095 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:39:00,485 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:39:00,490 - INFO - DNS Lookup for aui.ma: 199.60.103.62
+2024-09-20 10:39:00,490 - INFO - DNS Lookup for aui.ma: 199.60.103.62
+2024-09-20 10:39:00,491 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:39:00,491 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:39:00,688 - INFO - Open ports for 199.60.103.62: [80, 443]
+2024-09-20 10:39:00,688 - INFO - Port Scanning completed successfully.
+2024-09-20 10:39:00,719 - ERROR - SSL/TLS fetch failed for 199.60.103.62: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:39:00,720 - INFO - SSL Info completed successfully.
+2024-09-20 10:39:01,437 - INFO - No SQL Injection vulnerability detected for https://aui.ma/
+2024-09-20 10:39:01,438 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:39:01,718 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:39:01,719 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:43:39,972 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:43:39,977 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:43:39,977 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:43:39,978 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:43:39,978 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:43:40,099 - INFO - Open ports for 199.60.103.162: [80, 443]
+2024-09-20 10:43:40,099 - INFO - Port Scanning completed successfully.
+2024-09-20 10:43:40,129 - ERROR - SSL/TLS fetch failed for 199.60.103.162: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:43:40,130 - INFO - SSL Info completed successfully.
+2024-09-20 10:43:41,083 - INFO - No SQL Injection vulnerability detected for https://aui.ma/
+2024-09-20 10:43:41,084 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:43:42,345 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:43:42,345 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:43:50,213 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:43:50,218 - INFO - DNS Lookup for aui.ma: 199.60.103.62
+2024-09-20 10:43:50,218 - INFO - DNS Lookup for aui.ma: 199.60.103.62
+2024-09-20 10:43:50,218 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:43:50,218 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:43:50,378 - INFO - Open ports for 199.60.103.62: [80, 443]
+2024-09-20 10:43:50,378 - INFO - Port Scanning completed successfully.
+2024-09-20 10:43:50,431 - ERROR - SSL/TLS fetch failed for 199.60.103.62: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:43:50,433 - INFO - SSL Info completed successfully.
+2024-09-20 10:43:51,093 - INFO - No SQL Injection vulnerability detected for https://aui.ma/
+2024-09-20 10:43:51,094 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:43:51,322 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:43:51,323 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:44:14,700 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:44:14,715 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:44:14,716 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:44:14,716 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:44:14,716 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:44:14,807 - INFO - Open ports for 199.60.103.162: [80, 443]
+2024-09-20 10:44:14,808 - INFO - Port Scanning completed successfully.
+2024-09-20 10:44:14,865 - ERROR - SSL/TLS fetch failed for 199.60.103.162: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:44:14,866 - INFO - SSL Info completed successfully.
+2024-09-20 10:44:15,897 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:44:15,897 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:44:15,921 - INFO - No SQL Injection vulnerability detected for https://aui.ma/
+2024-09-20 10:44:15,921 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:45:05,968 - INFO - Running OWASP ZAP scan on https://aui.ma/
+2024-09-20 10:45:05,973 - INFO - DNS Lookup for aui.ma: 199.60.103.62
+2024-09-20 10:45:05,973 - INFO - DNS Lookup for aui.ma: 199.60.103.62
+2024-09-20 10:45:05,973 - INFO - DNS Lookup completed successfully.
+2024-09-20 10:45:05,974 - INFO - ZAP Scan completed successfully.
+2024-09-20 10:45:07,426 - INFO - Open ports for 199.60.103.62: [80]
+2024-09-20 10:45:07,427 - INFO - Port Scanning completed successfully.
+2024-09-20 10:45:08,111 - ERROR - SSL/TLS fetch failed for 199.60.103.62: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:45:08,114 - INFO - SSL Info completed successfully.
+2024-09-20 10:45:08,304 - INFO - WHOIS Lookup for aui.ma: {
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:45:08,304 - INFO - WHOIS Lookup completed successfully.
+2024-09-20 10:45:10,720 - INFO - No SQL Injection vulnerability detected for https://aui.ma/
+2024-09-20 10:45:10,720 - INFO - SQL Injection Test completed successfully.
+2024-09-20 10:48:04,187 - INFO - WHOIS Lookup for aui.ma:
+{
+  "domain_name": "aui.ma",
+  "registrar": "ITISSALAT AL-MAGHRIB",
+  "whois_server": null,
+  "referral_url": null,
+  "updated_date": "2023-11-27 00:00:26.280000",
+  "creation_date": "2009-10-28 00:00:00",
+  "expiration_date": "2024-10-27 23:00:00",
+  "name_servers": [
+    "ns1.aui.ma",
+    "ns2.aui.ma"
+  ],
+  "status": "ok https://icann.org/epp#ok",
+  "emails": "xx@menara.ma",
+  "dnssec": null,
+  "name": "UNIVERSITE AL AKHAWAYN",
+  "org": "Redacted | Registry Policy",
+  "address": "Redacted | Registry Policy",
+  "city": "Redacted | Registry Policy",
+  "state": "Redacted | Registry Policy",
+  "registrant_postal_code": "Redacted | Registry Policy",
+  "country": "Redacted | Registry Policy"
+}
+2024-09-20 10:48:04,188 - INFO - DNS Lookup for aui.ma: 199.60.103.162
+2024-09-20 10:48:04,341 - ERROR - SSL/TLS fetch failed for 199.60.103.162: [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1000)
+2024-09-20 10:48:11,399 - INFO - Open ports on 199.60.103.162: [80, 443]
+2024-09-20 10:48:11,414 - ERROR - OWASP ZAP scan failed for https://aui.ma/: [Errno 2] No such file or directory: 'zap-cli'
+2024-09-20 10:48:15,382 - INFO - No SQL Injection vulnerability detected for https://aui.ma/

@@ -2,13 +2,14 @@ import whois
 import socket
 import subprocess
 
+
 def get_whois_info(domain):
     try:
-        domain_info = whois.whois(domain)
-        return domain_info
+        return whois.whois(domain)
     except Exception as e:
         print(f"Error fetching WHOIS data: {e}")
         return None
+
 
 def get_dns_info(domain):
     try:
