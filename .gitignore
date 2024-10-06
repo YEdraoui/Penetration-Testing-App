@@ -1,0 +1,31 @@
+# Python-related files
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment-related files
+.env
+.vscode/
+.idea/
+venv/
+.venv/
+
+# Log and output files
+*.log
+*.out
+*.html  # Assuming report.html should be ignored as it's a generated report
+scan_results.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# ZAP Files (Assuming you don't want to track these)
+*.jar
+*.bat
+*.sh
+zap.ico
